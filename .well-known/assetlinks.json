@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gkcell.gestao",
+      "sha256_cert_fingerprints": [
+        "EA:BA:AE:86:8C:CE:EF:21:88:14:9C:8F:30:8C:CA:7A:7F:50:41:C8:5D:F8:A4:16:D4:48:C9:89:98:94:2D:A9"
+      ]
+    }
+  }
+]
